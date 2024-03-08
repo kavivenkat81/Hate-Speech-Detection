@@ -14,3 +14,6 @@ Contextual Analysis
 User Profiling
 Geospatial Analysis
 Hate Speech Detection
+
+Libraries used:
+nltk,spacy,gensim,sklearn,tensorflow,geopy,folium,tensorflow
